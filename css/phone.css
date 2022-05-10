@@ -1,0 +1,42 @@
+/* Navigation */
+
+
+#navbar{
+    flex-direction: column;
+}
+
+/* Home */
+
+#Home{
+    height: 100px;
+    /* flex-direction: column; */
+}
+#Home::before{
+    height: 480px;
+    
+}
+
+#Home p{
+    font-size: 13px;
+}
+#Home h1{
+    font-size: 33px;
+}
+
+/* VidsG */
+
+#vidsg{
+    flex-direction: column;
+    
+}
+
+/* Partners Section */
+#partners-section{
+    flex-direction: column;
+    overflow: hidden;
+}
+
+
+/* Contact Section */
+
+/* Footer */
